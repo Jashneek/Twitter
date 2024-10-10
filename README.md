@@ -1,7 +1,5 @@
 # Twitter
 
-# Twitter API in Go
-
 ## Overview
 
 This project shows how to use the Twitter API in the Go programming language. We can post a new tweet and delete an existing tweet. This is a great way to learn about APIs and how to connect to them.
