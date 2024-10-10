@@ -38,11 +38,11 @@ Follow the prompts to name the project and app, and fill out any necessary detai
 
 ##Posting Status:
 
-
+![image](https://github.com/user-attachments/assets/f30a04a4-3f4f-4176-9a9d-28eae709f841)
+![image](https://github.com/user-attachments/assets/43d76474-ff50-44f5-919e-f588c4d74a6a)
 
 ##Deleting Status:
-
-
+![image](https://github.com/user-attachments/assets/a6f3f6d6-173f-4f33-8b95-75a9b59b53df)
 
 ##Authentication and Error Handling
 
