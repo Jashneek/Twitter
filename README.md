@@ -28,21 +28,26 @@ Sign up for a Twitter Development Account
 Click on “Projects & Apps” and select “Create Project.”
 Follow the prompts to name the project and app, and fill out any necessary details.
 
-##Generating API Keys, Access Keys and Tokens:
+## 3.Generating API Keys, Access Keys and Tokens:
 
 - After creating  app, go to the “Keys and Tokens” tab within your app settings.
 - You will find your API Key, API Secret Key, Access Token, and Access Token Secret.
 - Generate and Copy these keys as we will need them to authenticate API requests.
 
-##Posting Status:
+## Posting Status:
 
 ![image](https://github.com/user-attachments/assets/f30a04a4-3f4f-4176-9a9d-28eae709f841)
-![image](https://github.com/user-attachments/assets/43d76474-ff50-44f5-919e-f588c4d74a6a)
 
-##Deleting Status:
+![image](https://github.com/user-attachments/assets/b3a76fe8-08f9-4b62-b3da-45c49124ce62)
+
+
+## Deleting Status:
 ![image](https://github.com/user-attachments/assets/a6f3f6d6-173f-4f33-8b95-75a9b59b53df)
 
-##Authentication and Error Handling
+![image](https://github.com/user-attachments/assets/cfb3a139-6930-4d89-9e70-36e71d1c71bb)
+
+
+## Authentication and Error Handling
 
 `Authentication`
 
@@ -55,4 +60,11 @@ Invalid Credentials: The program checks for authentication issues.
 Rate Limiting: The program handles HTTP 429 errors and waits before retrying requests.
 Invalid Tweet IDs: If an attempt is made to delete a tweet that does not exist, the program will catch the error and output a meaningful message.
 
+## Invalid Authorization:
+![image](https://github.com/user-attachments/assets/d8f26d2d-ab20-41f3-8c04-80630a290a40)
+
+## Tweet Failed:
 ![image](https://github.com/user-attachments/assets/e8879c60-5ae5-4989-bdd2-f3574f956fcc)
+
+## Wrong ID:
+![image](https://github.com/user-attachments/assets/b8173507-0f37-4e62-a835-84e890a12d81)
